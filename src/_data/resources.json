@@ -1783,6 +1783,12 @@
 			"description": "The aim of this guide is to provide all the practical information you need to learn how to tag a PDF document.",
 			"additional": "AcceDe",
 			"url": "https://www.pdf-accessible.com/en/"
+		},		
+		{
+			"title": "CoreA11y PDF Accessibility Checker",
+			"description": "Free online checker that tests a PDF against PDF/UA and WCAG 2.2 and explains each issue in plain language. Works in any browser, with no signup. Automated checks can't judge everything, so manual review is still needed.",
+			"additional": "CoreA11y",
+			"url": "https://corea11y.com/pdf-remediation/#audit"
 		},
 		{
 			"title": "Create and verify PDF accessibility (Acrobat Pro)",
